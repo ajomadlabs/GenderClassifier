@@ -12,5 +12,5 @@ A simple classifier made to distinguish genders based on three features like hei
   <a href="https://google.com/">virtualenv</a>
 <hr>
 # Credits
-This gamebot is created as hobby project inspiring <a href="https://github.com/llSourcell/gender_classification_challenge">llSourcell</a><br>
+This classifier is created as hobby project inspiring <a href="https://github.com/llSourcell/gender_classification_challenge">llSourcell</a><br>
 
